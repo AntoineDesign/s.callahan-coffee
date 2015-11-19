@@ -10,7 +10,7 @@
     "Dark",
     "Brown"
   ],
-  "repository": "https://github.com/atom/s.callahan-coffee-syntax",
+  "repository": "https://github.com/AntoineDesign/s.callahan-coffee",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
